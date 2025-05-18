@@ -1,4 +1,4 @@
-# Xeno Mini CRM Platform
+# CRM Platform
 
 A comprehensive CRM platform built for the Xeno SDE Internship Assignment 2025, featuring customer segmentation, campaign delivery, and AI-powered insights.
 
